@@ -5,7 +5,7 @@ Course on High Performance Computing - 2023
 | Date       | Topic                                                             | |
 |------------|------------------------------------------------------------------|----|
 | October 31 | Basics of Multicore Architecture, Introduction to Multithreading |[notes](https://github.com/arjunskumar/HPC_course_notes/blob/main/Basics_Architecture_%26_Intro_Multithreading.md)
-| November 2  | OpenMP                                                           | |
+| November 2  | OpenMP                                                           | [notes](https://github.com/arjunskumar/HPC_course_notes/blob/main/openmp.md)|
 | November 7  | MPI                                                              | |
 | November 9  | Synchronization Primitives, Synchronization Techniques         | |
 | November 14 | Spin locks                                                        | |
